@@ -1,0 +1,68 @@
+body{
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	SCROLLBAR-FACE-COLOR: #cc9966;
+	SCROLLBAR-HIGHLIGHT-COLOR: #aaa66a;
+	SCROLLBAR-SHADOW-COLOR: ##AEA994;
+	SCROLLBAR-3DLIGHT-COLOR: #993300;
+	SCROLLBAR-ARROW-COLOR: #330000;
+	SCROLLBAR-TRACK-COLOR: #6D6A5D;
+	SCROLLBAR-DARKSHADOW-COLOR: #330000;
+	font-family: Arial, Helvetica;
+	font-size: 10px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	color: #D2C6B6;
+}
+a:link {
+	color: #993300;
+	text-decoration: underline;
+}
+td{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 10px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+}
+
+.TEXTregular {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.TEXTsmall {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.FORMtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+.FORMbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #ffffff;
+	background-color: #FFFFFF;
+	width: 200px;
+}
+.FORMbutton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	color: #ffffff;
+	background-color: #FFFFFF;
+	width: 100px;
+	font-size: 10px;
+}
+
